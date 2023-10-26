@@ -5,10 +5,9 @@ Deze repository bevat alle broncode en presentatiematerialen van de gastsessie o
 
 ## Onderwerpen
 - Verklarende Syntax van SwiftUI
-- Data Binding en State Management
 - Herbruikbaarheid van Componenten
-- Animaties en Transities
-- Multiplatform Ontwikkeling
+- Api calls & Models
+- Data Binding en State Management
 
 ## Gebruik
 Clone het repository en open het project in Xcode om de voorbeeldprojecten te verkennen. Zie de presentatieslides voor theoretische achtergrondinformatie.
